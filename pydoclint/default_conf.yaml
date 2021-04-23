@@ -1,0 +1,13 @@
+spell-check: True
+exclude-spellcheck: []
+
+# Not implemented yet
+check-grammer: False
+
+check-formatting: True
+max-line-length: 88
+exclude-dirs:
+  - tests
+exclude-patterns: []
+
+
