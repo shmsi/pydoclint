@@ -30,7 +30,11 @@ After installation use the following command.
 
         ./doclint <path to file or directory>
 
-If a directory is provided, doclint will find all python file in that directory and start verification.
+If a directory is provided, doclint will find all python file in that directory and start verification and log the result on console.
+
+![output](docs/output.png "output")
+
+
 
 # Todo
 - Problems in running the command needs to be fixed
